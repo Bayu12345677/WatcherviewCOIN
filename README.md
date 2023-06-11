@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/license/Bayu12345677/GlassSpamV2?color=green&logo=apache&style=flat-square">
 </p>
 
-<br>
+<br>is a program to harvest coins watcherview application
 
 - ## cara menginstall
 \- siapkan termux versi terbaru<br>
