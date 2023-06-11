@@ -37,7 +37,7 @@ git clone https://github.com/Bayu12345677/WatcherviewCOIN.git
 cd WatcherviewCOIN
 make setup
 make run
-```<br>
+```
 
   [+] ini adalah program ilegal jadi resiko di tanggung pengguna<br>
   [-] Program ini di buat Hanya untuk edukasi
