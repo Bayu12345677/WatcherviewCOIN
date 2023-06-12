@@ -1,6 +1,6 @@
 #if 0
 	DEVELOPER pejuang kentang
-	VERSION 1.1
+	VERSION 1.2
 	CONTACT
 #endif
 
